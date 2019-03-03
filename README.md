@@ -1,5 +1,10 @@
-# Ball Horizon
-An endless runner game developed using [Unity](https://unity3d.com/get-unity/download).
+<p align="center">
+  <img alt="Ball Horizon Logo" src="https://lh3.googleusercontent.com/dWxhe5gSwJX1wT53fTZJqpNgvNFQjI_oifBgng-APbfXS-Y47PW54y8i7eDMdMIZHuqR=s180-rw" />
+  <h1 align="center">Ball Horizon</h3>
+  <p align="center">
+  An endless runner game developed using <a href="https://unity3d.com/get-unity/download">Unity</a>
+  </p>
+</p>
 
 ## Description
 Ball Horizon is  a game made by me during free time as a hobby.This game basically a typical endless runner games that focus on passing the obstacle that randomly generated and trying achieve the highest score.
